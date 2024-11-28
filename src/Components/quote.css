@@ -1,0 +1,28 @@
+/* components/Quotation.css */
+
+.quotation-container {
+    max-width: 100%;
+    margin: 50px auto;
+    padding: 50px 30px;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 0px;
+    font-family: 'Georgia', serif;
+    color: #333;
+  }
+  
+  .quotation-heading {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #000000;
+    text-align: center;
+  }
+  
+  .quotation-text {
+    font-size: 1.5rem;
+    line-height: 1.6;
+    margin: 0;
+    color: #000000;
+    text-align: center;
+  }
